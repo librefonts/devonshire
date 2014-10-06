@@ -1,0 +1,33 @@
+{
+  "name": "Devonshire",
+  "designer": "Astigmatic",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Handwriting",
+  "size": 30667,
+  "fonts": [
+    {
+      "name": "Devonshire",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Devonshire-Regular-TTF.ttf",
+      "postScriptName": "Devonshire-Regular",
+      "fullName": "Devonshire-Regular",
+      "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\nFont Name \"Devonshire\""
+    },
+    {
+      "name": "Devonshire",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Devonshire-Regular.ttf",
+      "postScriptName": "Devonshire-Regular",
+      "fullName": "Devonshire-Regular",
+      "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Devonshire\""
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-11-16"
+}
